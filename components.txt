@@ -1,0 +1,6 @@
+@Component({  --------------- it's a decorator . it says add component and it turns this class into a component.
+  selector: 'app-root', ----- it is a html tag that we can use to render the content of associated template url.
+  templateUrl: './app.component.html', ---- it shows inside the app.component.html.
+  styleUrls: ['./app.component.css']
+})
+
